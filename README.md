@@ -1,10 +1,10 @@
-### Hi there 👋
+### Hi there
 
 Hello friend, it's Hongbo, a full stack devloper in Canada
 
 ### Feel free to establish connection with me:
 
-<hr />
+-----
 
 Gmail: lu.hongbo33@gmail.com
 
