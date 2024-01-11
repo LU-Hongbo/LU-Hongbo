@@ -4,8 +4,9 @@ Hi there, it's Hongbo, full stack devloper
 
 A life-long learner
 
-Feel free to establish connection with me:
-Gmail: lu.hongbo33@gmail.com
+##### Feel free to establish connection with me:\
+<br>
+Gmail: lu.hongbo33@gmail.com \
 Instagram: [https://www.instagram.com/lu_hongbo_/]
 
 <!--
