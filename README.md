@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+Hi there, it's Hongbo, full stack devloper
+
+A life-long learner
+
+Feel free to establish connection with me:
+Gmail: lu.hongbo33@gmail.com
+Instagram: [https://www.instagram.com/lu_hongbo_/]
+
 <!--
 **LU-Hongbo/LU-Hongbo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
