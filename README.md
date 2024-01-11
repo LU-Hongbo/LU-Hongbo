@@ -2,9 +2,9 @@
 
 Hello friend, it's Hongbo, a full stack devloper in Canada
 
-##### Feel free to establish connection with me:
+### Feel free to establish connection with me:
 
-<br />
+<hr />
 
 Gmail: lu.hongbo33@gmail.com
 
