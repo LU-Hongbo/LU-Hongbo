@@ -1,12 +1,13 @@
 ### Hi there 👋
 
-Hi there, it's Hongbo, full stack devloper
-
-A life-long learner
+Hello friend, it's Hongbo, a full stack devloper in Canada
 
 ##### Feel free to establish connection with me:
+
 <br />
+
 Gmail: lu.hongbo33@gmail.com
+
 Instagram: https://www.instagram.com/lu_hongbo_/
 
 <!--
