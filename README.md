@@ -1,10 +1,10 @@
-### Hi there
+## Hi there
 
-Hello friend, it's Hongbo, a full stack devloper in Canada
+Hello friend, it's LU Hongbo
 
-### Feel free to establish connection with me:
+A full stack devloper in Canada, used to work at ThoughtWorks
 
----
+## Please feel free to establish connection with me
 
 Gmail: lu.hongbo33@gmail.com
 
