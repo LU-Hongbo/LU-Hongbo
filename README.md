@@ -2,7 +2,7 @@
 
 Hello friend, it's LU Hongbo
 
-A full stack devloper in Ottawa, Canada, and used to work at ThoughtWorks
+A full stack developer in Ottawa, Canada, and used to work at ThoughtWorks
 
 ## Please feel free to establish connection with me
 
